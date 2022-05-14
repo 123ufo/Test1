@@ -1,4 +1,4 @@
-package com.dw.ui_libs;
+package com.dw.core;
 
 import org.junit.Test;
 
