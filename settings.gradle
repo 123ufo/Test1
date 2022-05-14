@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 rootProject.name = "Test1"
 include ':app'
 include ':ui-libs'
-include ':core'
