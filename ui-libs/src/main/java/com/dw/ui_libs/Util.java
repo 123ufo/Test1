@@ -13,6 +13,6 @@ public class Util {
     private static final String TAG = "Util";
 
     public static void showMessage(){
-        Log.d(TAG, "showMessage: ui-libs");
+        Log.d(TAG, "showMessage: ui-libs branch");
     }
 }
