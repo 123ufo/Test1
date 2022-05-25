@@ -1,4 +1,4 @@
-package com.dw.core.utils;
+package com.dw.core;
 
 /**
  * 日期：2022/5/14
@@ -9,8 +9,7 @@ package com.dw.core.utils;
  */
 public class CoreUtil {
 
-
-    public static boolean isCore(){
-        return true;
+    public static String showCoreMessage(){
+        return "Core message";
     }
 }
